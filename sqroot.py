@@ -11,4 +11,6 @@ print(f"The square root of {num} is {sqrt}")
 i=1
 j=2
 sum=i+j
+sub=i-j
 print(sum)
+print(sub)
